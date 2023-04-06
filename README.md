@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @gargshrey49
-- 👀 I’m interested in Product Management and Sustainability
-- 🌱 I’m currently learning various techniques to analyse and visualize data through Excel, VBA, Python and R..
+- 👀 I’m interested in Software development, Product Management and Sustainability
 - 💞️ I’m looking to collaborate on projects which are aiming to better the living conditions of our world and make it more sustainable...
 - 📫 You can reach me at gargshrey49@gmail.com or sgarg48@asu.edu
 
